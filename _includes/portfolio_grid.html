@@ -1,5 +1,4 @@
 
-<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 <!-- Portfolio Grid Section -->
     <section id="portfolio">
         <div class="container portfolio-flex-grid">
@@ -18,7 +17,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <model-viewer src="models/{{ post.model }}" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" camera-controls touch-action="pan-y" class="img-responsive" alt="{{ post.alt }}">
+                            <model-viewer style="width: 300px; height: 300px;" src="models/{{ post.model }}" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" camera-controls touch-action="pan-y" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
                 {% endfor %}

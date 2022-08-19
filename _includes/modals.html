@@ -1,4 +1,3 @@
-<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 <!-- Portfolio Modals -->
  {% for post in site.posts %}
     <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
@@ -15,7 +14,7 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <model-viewer src="models/{{ post.model }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <model-viewer style="width: 300px; height: 300px;" src="models/{{ post.model }}" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" camera-controls touch-action="pan-y" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
