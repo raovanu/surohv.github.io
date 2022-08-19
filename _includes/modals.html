@@ -14,7 +14,7 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <model-viewer style="width: 300px; height: 300px;" src="models/{{ post.model }}" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" camera-controls touch-action="pan-y" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <model-viewer style="width: 1200px; height: 500px;" environment-image="img/environmment.hdr" src="models/{{ post.model }}" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" camera-controls touch-action="pan-y" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
