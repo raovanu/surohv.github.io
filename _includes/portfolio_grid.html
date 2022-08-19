@@ -17,7 +17,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <model-viewer style="width: 500px; height: 300px;" src="models/{{ post.model }}" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" camera-controls touch-action="pan-y" class="img-responsive" alt="{{ post.alt }}">
+                            <model-viewer disable-zoom style="width: 500px; height: 300px;" src="models/{{ post.model }}" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" camera-controls touch-action="pan-y" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
                 {% endfor %}
