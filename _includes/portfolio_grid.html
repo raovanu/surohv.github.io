@@ -12,12 +12,12 @@
                 {% for post in site.posts %}
                     <div class="portfolio-flex-item portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                            <model-viewer disable-zoom style="width: 100%; height: 200px;" src="models/{{ post.model }}" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" class="img-responsive" alt="{{ post.alt }}">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <model-viewer disable-zoom style="width: 100%; height: 200px;" src="models/{{ post.model }}" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
                 {% endfor %}
