@@ -8,7 +8,7 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            <div class="portfolio-flex-row" style="width: 1300px;">
+            <div class="portfolio-flex-row" style="width: 1300px; margin: auto;">
                 {% for post in site.posts %}
                     <div class="portfolio-flex-item portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
@@ -17,7 +17,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <model-viewer disable-zoom style="width: 500px; height: 150px;" src="models/{{ post.model }}" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" class="img-responsive" alt="{{ post.alt }}">
+                            <model-viewer disable-zoom style="width: 300px; height: 150px;" src="models/{{ post.model }}" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
                 {% endfor %}
