@@ -219,7 +219,7 @@ section.success {
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1;
+    opacity: .5;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
