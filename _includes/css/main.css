@@ -482,3 +482,31 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+
+button{
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: blue;
+    box-sizing: border-box;
+}
+
+button[slot="hotspot-1"]{
+--min-hotspot-opacity: 0;
+background-color: red;
+}
+
+#annotation{
+background-color: #888888;
+position: absolute;
+transform: translate(10px, 10px);
+border-radius: 10px;
+padding: 10px;
+}
+/* This keeps child nodes hidden while the element loads */
+:not(:defined) > * {
+display: none;
+}
