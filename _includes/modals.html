@@ -19,6 +19,7 @@
                                 <button class="Hotspot" slot="hotspot-"+toString(index) data-position="{{ post.hotspot-coords[index] }}" data-normal="0.2695219733692139m 0.4281947632488592m 0.8625584911166421m" data-visibility-attribute="visible">
                                     <div class="HotspotAnnotation">{{ post.hotspot-desc[index] }}</div>
                                 </button>
+                            {% endfor %}
                             </model-viewer>
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
