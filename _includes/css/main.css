@@ -486,15 +486,16 @@ footer .footer-below {
 
 button[slot="hotspot-1"]{
 --min-hotspot-opacity: 0;
+--max-hotspot-opacity: 0.8;
 display: block;
 border-radius: 10px;
 border: none;
-background-color: blue;
+background-color: #f24e4e;
 box-sizing: border-box;
 }
 
 #annotation{
-background-color: #888888;
+background-color: #bbbbbb;
 position: absolute;
 transform: translate(10px, 10px);
 width: 200px;
