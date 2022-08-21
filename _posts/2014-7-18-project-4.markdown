@@ -11,5 +11,5 @@ software: Blender
 hotspot-coords: -2.8608897392921246m -0.43947397824223255m 0.2822837226365582m
 hotspot-normal: 0.9633187397624446m -0.2683598435356815m 0m
 hotspot-desc: Assemblies of multiple geometries are combined to make complex pieces using boolean modifiers.
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Valorant "Gunbuddy" keychains. Based on a few characters' signature ornaments, I designed, printed, and painted keychains as gifts. This was a fun project since each of them have a radically different style - Jett's flowing knife, Cypher's iconic hat, Sova's more organically shaped owl, and Phoenix's angular emblem.
 ---

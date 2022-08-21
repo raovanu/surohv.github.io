@@ -11,5 +11,5 @@ software: Fusion 360
 hotspot-coords: 31.93863307754785m 51.119650940138996m 4.270050322896168m
 hotspot-normal: -0.5787163400432455m -0.000003923873045870425m 0.8155289067541102m
 hotspot-desc: Two separate pieces, one to use as the real but hidden scarf end and the other as the visible ornament.
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The Umbral Scarf from Warframe. I designed the ends/ornaments and my sister crocheted the main body of the scarf. 
 ---

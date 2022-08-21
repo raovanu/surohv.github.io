@@ -11,5 +11,5 @@ software: Blender
 hotspot-coords: 0.3081111592642307m 0.3104932113287574m 0.5428572969660304m
 hotspot-normal: 0.2695219733692139m 0.4281947632488592m 0.8625584911166421m
 hotspot-desc: The tentacles' pads are an array of objects pathed to a curve, their scale tapered with the same curve profile as the tentacles themselves.
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: An Awakener's Orb from Path of Exile, designed as a pendant for a necklace. To not introduce any inorganic geometry, I designed the hook into the model's tentacles themselves. Although the printed product doesn't convey every detail of the tentacle pads, I am more than happy with how it turned out.
 ---

@@ -11,5 +11,5 @@ software: Fusion 360
 hotspot-coords: -131.83866586160758m 28.00146435270165m -55.04247062610625m
 hotspot-normal: 0.0044454099121594105m 0.058067551230658626m 0.9983027585982059m
 hotspot-desc: The complex curvature of the handle was achieved through a sweep using several profiles parallel to the base.
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The Consuming Dark, a dagger from Path of Exile, full size prop. The blade chamfers required lots of support for the 3D print which led to a lot of filling and sanding, but the handle grip was very comfortable on the first try.
 ---
