@@ -8,8 +8,8 @@ model: nms multitool.gltf
 project-date: August 2019
 client: Start Bootstrap
 software: Fusion 360
-hotspot-coords: 0.3081111592642307m 0.3104932113287574m 0.5428572969660304m
-hotspot-normal: 0.2695219733692139m 0.4281947632488592m 0.8625584911166421m
-hotspot-desc: The tentacles' pads are an array of objects pathed to a curve, their scale tapered with the same curve profile as the tentacles themselves.
+hotspot-coords: -74.08983435362083m 130.33254002546167m -101.11278159209041m
+hotspot-normal: -1.0654027805703511e-7m 0.14834080563827542m 0.9889362999620228m
+hotspot-desc: Details created by shrinkwrapping/projecting 2D geometry onto 3D surfaces to maintain dimensions and subtracting material.
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---

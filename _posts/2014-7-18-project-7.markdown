@@ -8,8 +8,8 @@ model: consuming dark.gltf
 project-date: October 2021
 client: Start Bootstrap
 software: Fusion 360
-hotspot-coords: 0.3081111592642307m 0.3104932113287574m 0.5428572969660304m
-hotspot-normal: 0.2695219733692139m 0.4281947632488592m 0.8625584911166421m
-hotspot-desc: The tentacles' pads are an array of objects pathed to a curve, their scale tapered with the same curve profile as the tentacles themselves.
+hotspot-coords: -131.83866586160758m 28.00146435270165m -55.04247062610625m
+hotspot-normal: 0.0044454099121594105m 0.058067551230658626m 0.9983027585982059m
+hotspot-desc: The complex curvature of the handle was achieved through a sweep using several profiles parallel to the base.
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---

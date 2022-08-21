@@ -497,7 +497,7 @@ height: 20px;
 }
 
 #annotation{
-background-color: #bbbbbb;
+background-color: #dddddd;
 position: absolute;
 transform: translate(10px, 10px);
 width: 200px;

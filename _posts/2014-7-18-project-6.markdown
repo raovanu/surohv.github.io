@@ -8,8 +8,8 @@ model: gearring.gltf
 project-date: September 2021
 client: Start Bootstrap
 software: Onshape
-hotspot-coords: 0.3081111592642307m 0.3104932113287574m 0.5428572969660304m
-hotspot-normal: 0.2695219733692139m 0.4281947632488592m 0.8625584911166421m
-hotspot-desc: The tentacles' pads are an array of objects pathed to a curve, their scale tapered with the same curve profile as the tentacles themselves.
+hotspot-coords: -3.0478190854504774m 6.983631755478591m 3.1749999523162913m
+hotspot-normal: 0m 0m 1m
+hotspot-desc: Lightning bolt and gear are designed with tolerance to snap together, allowing the use of multiple filament colors.
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
