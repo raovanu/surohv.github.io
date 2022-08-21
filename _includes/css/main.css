@@ -484,19 +484,13 @@ footer .footer-below {
 }
 
 
-button{
-    display: block;
-    width: 20px;
-    height: 20px;
-    border-radius: 10px;
-    border: none;
-    background-color: blue;
-    box-sizing: border-box;
-}
-
 button[slot="hotspot-1"]{
 --min-hotspot-opacity: 0;
-background-color: red;
+display: block;
+border-radius: 10px;
+border: none;
+background-color: blue;
+box-sizing: border-box;
 }
 
 #annotation{
