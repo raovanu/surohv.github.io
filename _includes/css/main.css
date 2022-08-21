@@ -492,6 +492,8 @@ border-radius: 10px;
 border: none;
 background-color: #f24e4e;
 box-sizing: border-box;
+width: 20px;
+height: 20px;
 }
 
 #annotation{
