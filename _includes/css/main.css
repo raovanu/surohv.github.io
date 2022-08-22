@@ -6,10 +6,12 @@
 
 body {
     overflow-x: hidden;
+    font-family: Signika,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 p {
     font-size: 20px;
+    font-family: Signika,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 p.small {
@@ -23,6 +25,7 @@ a:active,
 a.active {
     outline: 0;
     color: #{{ site.color.primary }};
+    font-family: Signika,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 h1,
